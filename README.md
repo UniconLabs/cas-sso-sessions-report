@@ -3,6 +3,10 @@ cas-sso-sessions-report
 
 This is a web application that renders a pretty UI report of active CAS SSO sessions that it fetches from [cas-addons REST endpoint](https://github.com/Unicon/cas-addons/wiki/Active-SSO-Sessions-Report)
 
+It looks like this:
+
+![screenhot](https://raw.github.com/UniconLabs/cas-sso-sessions-report/master/cas-sso-sessions-report-screenshot.png)
+
 ### Prerequisites
 
 JDK 1.7+
