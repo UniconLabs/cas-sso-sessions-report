@@ -15,7 +15,7 @@ JDK 1.7+
 
 ### Contributing
 
-This is a free and open source app. If you like what you see and would like to further improve the app or add features, please do not hesistate to offer pull requests.
+This is a free and open source application released under [Apache 2.0 license.](https://github.com/UniconLabs/cas-sso-sessions-report/blob/master/LICENSE.md) If you like what you see and would like to further improve the app or add features, please do not hesistate to offer pull requests.
 
 
 
